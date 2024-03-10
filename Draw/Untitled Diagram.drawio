@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-10T11:10:36.704Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WCaHb6by67_uPk3lUr_P" version="24.0.4" type="github">
+<mxfile modified="2024-03-10T11:10:51.062Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="deqtvWtoepIaU6c6CFJD" version="24.0.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="954" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -167,9 +167,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaOFRfnHvdeHHMXGzQVh-71" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Events Create/Read/Update/Delete&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yaOFRfnHvdeHHMXGzQVh-70">
+        <mxCell id="yaOFRfnHvdeHHMXGzQVh-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Events Create/Read/Update/Delete&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yaOFRfnHvdeHHMXGzQVh-70">
           <mxGeometry x="0.3137" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="3" y="-37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yaOFRfnHvdeHHMXGzQVh-72" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;AWS Event Bridge&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.eventbridge_scheduler;" vertex="1" parent="1">
